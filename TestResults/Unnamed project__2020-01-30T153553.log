@@ -1,0 +1,207 @@
+﻿2020-01-30T15:35:53.4550236-06:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-01-30T15:35:53.4552160-06:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.44 in Framework netcore31 in x64 mode execution started
+2020-01-30T15:35:53.4552211-06:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-01-30T15:35:53.4731096-06:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\AmazonSearch.dll
+2020-01-30T15:35:53.4732547-06:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\mariana.sandoval\source\repos\AmazonSearch\TestResults" (default)
+2020-01-30T15:35:53.4732960-06:00;VSTestExecutionThread;Info;Profile: 
+2020-01-30T15:35:53.4972660-06:00;VSTestExecutionThread;Info;Log file path: C:\Users\mariana.sandoval\source\repos\AmazonSearch\TestResults\Unnamed project__2020-01-30T153553.log
+2020-01-30T15:35:53.5013861-06:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-01-30T15:35:53.5058401-06:00;Thread#12;Info;Checking license
+2020-01-30T15:35:53.5216222-06:00;Thread#12;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2020-01-30T15:36:00.5225913-06:00;Thread#12;Info;Evaluation delay finished.
+2020-01-30T15:36:00.5431295-06:00;Thread#12;Info;License check completed
+2020-01-30T15:36:00.5440580-06:00;Thread#12;Info;starting test run
+2020-01-30T15:36:00.5533204-06:00;Thread#12;Info;Discovering target: Default
+2020-01-30T15:36:00.5535297-06:00;Thread#12;Info;Discovering tests from assembly: C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\AmazonSearch.dll
+2020-01-30T15:36:00.6217664-06:00;Thread#12;Info;Discovered tests from assembly: C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\AmazonSearch.dll
+2020-01-30T15:36:00.6227711-06:00:Test Suite Dump
+2020-01-30T15:36:00.6242701-06:00:#0: Unnamed project/ - 
+2020-01-30T15:36:00.6242855-06:00:#1: Default - 
+2020-01-30T15:36:00.6242876-06:00:#2: AmazonSearch - 
+2020-01-30T15:36:00.6242893-06:00:#3: AmazonSearching - 
+2020-01-30T15:36:00.6262899-06:00:#4: Search for a product - TestAssembly:AmazonSearch/Feature:AmazonSearching/Scenario:Search+for+a+product
+2020-01-30T15:36:00.6263482-06:00:End: Test Suite Dump
+2020-01-30T15:36:00.6409246-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-30T15:36:00.6425601-06:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-01-30T15:36:00.6426198-06:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-01-30T15:36:00.6453993-06:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-30T15:36:00.6454101-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-01-30T15:36:00.6454123-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-01-30T15:36:00.6454145-06:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-01-30T15:36:00.6461719-06:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-01-30T15:36:00.6478575-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-30T15:36:00.6501706-06:00:Thread #0: creating new test thread executor for AmazonSearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-01-30T15:36:00.6529356-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-01-30T15:36:00.6531687-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-01-30T15:36:00.6555856-06:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-01-30T15:36:00.6571933-06:00:starting Out Of Process Executor
+2020-01-30T15:36:00.6589017-06:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-01-30T15:36:00.6613577-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:00.6616765-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-01-30T15:36:00.6617642-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-01-30T15:36:00.6617863-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:00.6624872-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-01-30T15:36:00.6624968-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-01-30T15:36:00.6682717-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0'
+2020-01-30T15:36:00.6682912-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0\Microsoft.VisualStudio.Validation.dll'
+2020-01-30T15:36:00.6683417-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0\Microsoft.VisualStudio.Validation.exe'
+2020-01-30T15:36:00.6683693-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0'
+2020-01-30T15:36:00.6684554-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0'
+2020-01-30T15:36:00.6684620-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0\Microsoft.VisualStudio.Validation.dll'
+2020-01-30T15:36:00.6684859-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0\Microsoft.VisualStudio.Validation.exe'
+2020-01-30T15:36:00.6685034-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0'
+2020-01-30T15:36:00.6685735-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0'
+2020-01-30T15:36:00.6685787-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0\Microsoft.VisualStudio.Validation.dll'
+2020-01-30T15:36:00.6686090-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0\Microsoft.VisualStudio.Validation.exe'
+2020-01-30T15:36:00.6686272-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0'
+2020-01-30T15:36:00.6716786-06:00:Starting callback TCP Rpc server
+2020-01-30T15:36:00.6865319-06:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-01-30T15:36:00.6865708-06:00:Started callback TCP Rpc server on port 32768
+2020-01-30T15:36:00.6865733-06:00:Starting logger TCP Rpc server
+2020-01-30T15:36:00.6883669-06:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-01-30T15:36:00.6883845-06:00:Started logger TCP Rpc server on port 32769
+2020-01-30T15:36:00.7603759-06:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 15708 --uniqueId "2020-01-30T153553" --outputFolder "C:\Users\mariana.sandoval\source\repos\AmazonSearch\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:00.7664536-06:00:Executor with PID 5948 has been started successfully.
+2020-01-30T15:36:00.7700213-06:00:Out of Process Executor 5948 started
+2020-01-30T15:36:00.7700415-06:00:Waiting for endpoint
+2020-01-30T15:36:01.0194238-06:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-01-30T15:36:01.0194442-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.0194464-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-01-30T15:36:01.0194808-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-01-30T15:36:01.0194981-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.0195009-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-01-30T15:36:01.0195082-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-01-30T15:36:01.0198728-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0'
+2020-01-30T15:36:01.0198812-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0\Microsoft.VisualStudio.Threading.dll'
+2020-01-30T15:36:01.0199146-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0\Microsoft.VisualStudio.Threading.exe'
+2020-01-30T15:36:01.0199326-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0'
+2020-01-30T15:36:01.0199989-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0'
+2020-01-30T15:36:01.0200056-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0\Microsoft.VisualStudio.Threading.dll'
+2020-01-30T15:36:01.0200289-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0\Microsoft.VisualStudio.Threading.exe'
+2020-01-30T15:36:01.0200460-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0'
+2020-01-30T15:36:01.0201182-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0'
+2020-01-30T15:36:01.0201235-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0\Microsoft.VisualStudio.Threading.dll'
+2020-01-30T15:36:01.0201481-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0\Microsoft.VisualStudio.Threading.exe'
+2020-01-30T15:36:01.0201647-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0'
+2020-01-30T15:36:01.2057803-06:00:Remote executor port received: 32770
+2020-01-30T15:36:01.2062629-06:00:Creating executor TCP client on port 32770
+2020-01-30T15:36:01.2068166-06:00:Created executor TCP client on port 32770
+2020-01-30T15:36:01.2068288-06:00:Connecting to remote executor TCP server
+2020-01-30T15:36:01.2079234-06:00:Connected remote executor TCP server
+2020-01-30T15:36:01.2081673-06:00:trying to connect to Out of Process Executor the 1 attempt
+2020-01-30T15:36:01.2081763-06:00:Connection to Out of Process Executor established in the 1 attempt
+2020-01-30T15:36:01.3349157-06:00:2020-01-30T15:36:01.3338390-06:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\AmazonSearch.dll on test thread #0
+2020-01-30T15:36:01.3398032-06:00:Endpoint 5948 started
+2020-01-30T15:36:01.3568569-06:00:2020-01-30T15:36:01.3564777-06:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-01-30T15:36:01.4506035-06:00:2020-01-30T15:36:01.4501901-06:00:Thread#0:T:2020-01-30T15:36:01.4488474-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-01-30T15:36:01.4540002-06:00:2020-01-30T15:36:01.4536566-06:00:Thread#0:T:2020-01-30T15:36:01.4534090-06:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.4616453-06:00:2020-01-30T15:36:01.4612188-06:00:Thread#0:T:2020-01-30T15:36:01.4609412-06:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll'
+2020-01-30T15:36:01.4627635-06:00:2020-01-30T15:36:01.4624738-06:00:Thread#0:T:2020-01-30T15:36:01.4622362-06:00:[AssemblyCache] Found file 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll' for assembly 'TechTalk.SpecFlow'
+2020-01-30T15:36:01.4647175-06:00:2020-01-30T15:36:01.4643899-06:00:Thread#0:T:2020-01-30T15:36:01.4641689-06:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+2020-01-30T15:36:01.5505165-06:00:2020-01-30T15:36:01.5500611-06:00:Thread#0:T:-> Loading plugin C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-01-30T15:36:01.5531334-06:00:2020-01-30T15:36:01.5525647-06:00:Thread#0:T:2020-01-30T15:36:01.5523269-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-01-30T15:36:01.5579003-06:00:2020-01-30T15:36:01.5575427-06:00:Thread#0:T:-> Using default config
+2020-01-30T15:36:01.5672747-06:00:2020-01-30T15:36:01.5668882-06:00:Thread#0:T:2020-01-30T15:36:01.5666017-06:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-01-30T15:36:01.5682237-06:00:2020-01-30T15:36:01.5679268-06:00:Thread#0:T:2020-01-30T15:36:01.5677551-06:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.5690025-06:00:2020-01-30T15:36:01.5687635-06:00:Thread#0:T:2020-01-30T15:36:01.5686338-06:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll'
+2020-01-30T15:36:01.5698482-06:00:2020-01-30T15:36:01.5696287-06:00:Thread#0:T:2020-01-30T15:36:01.5694986-06:00:[AssemblyCache] Found file 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll' for assembly 'Cucumber.Messages'
+2020-01-30T15:36:01.5714615-06:00:2020-01-30T15:36:01.5711844-06:00:Thread#0:T:2020-01-30T15:36:01.5709854-06:00:[AssemblyCache] Resolved 'Cucumber.Messages' to C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+2020-01-30T15:36:01.5723708-06:00:2020-01-30T15:36:01.5721831-06:00:Thread#0:T:2020-01-30T15:36:01.5719900-06:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-01-30T15:36:01.5728718-06:00:2020-01-30T15:36:01.5727109-06:00:Thread#0:T:2020-01-30T15:36:01.5726568-06:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.5733678-06:00:2020-01-30T15:36:01.5731354-06:00:Thread#0:T:2020-01-30T15:36:01.5730799-06:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Google.Protobuf.dll'
+2020-01-30T15:36:01.5739686-06:00:2020-01-30T15:36:01.5738055-06:00:Thread#0:T:2020-01-30T15:36:01.5737420-06:00:[AssemblyCache] Found file 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Google.Protobuf.dll' for assembly 'Google.Protobuf'
+2020-01-30T15:36:01.5751048-06:00:2020-01-30T15:36:01.5749424-06:00:Thread#0:T:2020-01-30T15:36:01.5748856-06:00:[AssemblyCache] Resolved 'Google.Protobuf' to C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+2020-01-30T15:36:01.5823029-06:00:2020-01-30T15:36:01.5819147-06:00:Thread#0:T:2020-01-30T15:36:01.5817395-06:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-01-30T15:36:01.5834549-06:00:2020-01-30T15:36:01.5830937-06:00:Thread#0:T:2020-01-30T15:36:01.5828646-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.5843461-06:00:2020-01-30T15:36:01.5839441-06:00:Thread#0:T:2020-01-30T15:36:01.5837058-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-01-30T15:36:01.5850300-06:00:2020-01-30T15:36:01.5847969-06:00:Thread#0:T:2020-01-30T15:36:01.5847080-06:00:[AssemblyCache] Found file 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll' for assembly 'Microsoft.VisualStudio.TestPlatform.ObjectModel'
+2020-01-30T15:36:01.5860178-06:00:2020-01-30T15:36:01.5857814-06:00:Thread#0:T:2020-01-30T15:36:01.5857210-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+2020-01-30T15:36:01.5878018-06:00:2020-01-30T15:36:01.5875525-06:00:Thread#0:T:2020-01-30T15:36:01.5874944-06:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-01-30T15:36:01.5882715-06:00:2020-01-30T15:36:01.5880558-06:00:Thread#0:T:2020-01-30T15:36:01.5879980-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.5887496-06:00:2020-01-30T15:36:01.5885293-06:00:Thread#0:T:2020-01-30T15:36:01.5884737-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2020-01-30T15:36:01.5892610-06:00:2020-01-30T15:36:01.5890473-06:00:Thread#0:T:2020-01-30T15:36:01.5889961-06:00:[AssemblyCache] Found file 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll' for assembly 'Microsoft.VisualStudio.TestPlatform.TestFramework'
+2020-01-30T15:36:01.5903847-06:00:2020-01-30T15:36:01.5901267-06:00:Thread#0:T:2020-01-30T15:36:01.5900337-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.TestFramework' to C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+2020-01-30T15:36:01.6115920-06:00:2020-01-30T15:36:01.6112207-06:00:Thread#0:T:2020-01-30T15:36:01.6111361-06:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-01-30T15:36:01.6124631-06:00:2020-01-30T15:36:01.6121502-06:00:Thread#0:T:2020-01-30T15:36:01.6119617-06:00:[AssemblyCache] Trying to resolve 'Utf8Json' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.6132430-06:00:2020-01-30T15:36:01.6129491-06:00:Thread#0:T:2020-01-30T15:36:01.6128321-06:00:[AssemblyCache] Trying to resolve 'Utf8Json' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Utf8Json.dll'
+2020-01-30T15:36:01.6140205-06:00:2020-01-30T15:36:01.6138337-06:00:Thread#0:T:2020-01-30T15:36:01.6136918-06:00:[AssemblyCache] Found file 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Utf8Json.dll' for assembly 'Utf8Json'
+2020-01-30T15:36:01.6153242-06:00:2020-01-30T15:36:01.6151347-06:00:Thread#0:T:2020-01-30T15:36:01.6150749-06:00:[AssemblyCache] Resolved 'Utf8Json' to C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\Utf8Json.dll
+2020-01-30T15:36:01.7759004-06:00:Thread#0: Test #4/0 is started on thread #0
+2020-01-30T15:36:01.7970595-06:00:2020-01-30T15:36:01.7963521-06:00:Thread#0:B:Given I go to amazon
+2020-01-30T15:36:01.8247241-06:00:2020-01-30T15:36:01.8243034-06:00:Thread#0:T:pending: AmazonSearchingSteps.GivenIGoToAmazon()
+2020-01-30T15:36:01.8262842-06:00:2020-01-30T15:36:01.8259648-06:00:Thread#0:B:And I login with my "email" and "password"
+2020-01-30T15:36:01.8286751-06:00:2020-01-30T15:36:01.8283683-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8314293-06:00:2020-01-30T15:36:01.8310785-06:00:Thread#0:B:Then I Search for product: "Samsung Galaxy S9 64GB"
+2020-01-30T15:36:01.8320756-06:00:2020-01-30T15:36:01.8317938-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8326415-06:00:2020-01-30T15:36:01.8323875-06:00:Thread#0:B:Then I Select first product and validate first price vs detail price
+2020-01-30T15:36:01.8331700-06:00:2020-01-30T15:36:01.8329055-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8339206-06:00:2020-01-30T15:36:01.8336510-06:00:Thread#0:B:When I click on Add to Cart
+2020-01-30T15:36:01.8345067-06:00:2020-01-30T15:36:01.8342250-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8350750-06:00:2020-01-30T15:36:01.8348188-06:00:Thread#0:B:And Validate first price vs current price And validate Shop car has 1 item
+2020-01-30T15:36:01.8367741-06:00:2020-01-30T15:36:01.8364875-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8408482-06:00:2020-01-30T15:36:01.8370381-06:00:Thread#0:B:Then I Search for second product: "Alienware Aw3418DW"
+2020-01-30T15:36:01.8415741-06:00:2020-01-30T15:36:01.8412656-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8421079-06:00:2020-01-30T15:36:01.8418496-06:00:Thread#0:B:And Select first product
+2020-01-30T15:36:01.8427003-06:00:2020-01-30T15:36:01.8424017-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8432086-06:00:2020-01-30T15:36:01.8429370-06:00:Thread#0:B:Then I add second product to the cart And verify cart has two items
+2020-01-30T15:36:01.8437286-06:00:2020-01-30T15:36:01.8434751-06:00:Thread#0:T:skipped because of previous errors
+2020-01-30T15:36:01.8509844-06:00:2020-01-30T15:36:01.8505742-06:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2020-01-30T15:36:01.8515686-06:00:2020-01-30T15:36:01.8512905-06:00:Thread#0:T:  AmazonSearchingSteps.GivenIGoToAmazon()
+2020-01-30T15:36:01.8586966-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-30T15:36:01.8587409-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-30T15:36:01.8587438-06:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-01-30T15:36:01.8587472-06:00:Thread#0:Scheduler: No more tests for thread
+2020-01-30T15:36:01.9038120-06:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.1269105 seconds
+2020-01-30T15:36:01.9113873-06:00:2020-01-30T15:36:01.9110751-06:00:Got Deinitialize Signal
+2020-01-30T15:36:01.9146369-06:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-01-30T15:36:01.9156259-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-01-30T15:36:01.9170577-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-01-30T15:36:01.9181388-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2020-01-30T15:36:01.9181578-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.9181602-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-01-30T15:36:01.9181827-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-01-30T15:36:01.9181990-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1'
+2020-01-30T15:36:01.9182041-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-01-30T15:36:01.9182060-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-01-30T15:36:01.9186720-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0'
+2020-01-30T15:36:01.9186794-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0\System.Diagnostics.Process.resources.dll'
+2020-01-30T15:36:01.9187133-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0\System.Diagnostics.Process.resources.exe'
+2020-01-30T15:36:01.9187327-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.0'
+2020-01-30T15:36:01.9187986-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0'
+2020-01-30T15:36:01.9188023-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0\System.Diagnostics.Process.resources.dll'
+2020-01-30T15:36:01.9188234-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0\System.Diagnostics.Process.resources.exe'
+2020-01-30T15:36:01.9188403-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.0'
+2020-01-30T15:36:01.9189162-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0'
+2020-01-30T15:36:01.9189217-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0\System.Diagnostics.Process.resources.dll'
+2020-01-30T15:36:01.9189489-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0\System.Diagnostics.Process.resources.exe'
+2020-01-30T15:36:01.9189668-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.0'
+2020-01-30T15:36:01.9196235-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2020-01-30T15:36:01.9285280-06:00:Thread#-1:Scheduler: get next test for thread -1
+2020-01-30T15:36:01.9285587-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-30T15:36:01.9285636-06:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-01-30T15:36:01.9306777-06:00;Thread#12;Info;test run finished
+2020-01-30T15:36:01.9308378-06:00;Thread#12;Info;publishing test results
+2020-01-30T15:36:01.9309586-06:00;Thread#12;Info;Not publishing results.
+2020-01-30T15:36:01.9310091-06:00;Thread#12;Info;test results published
+2020-01-30T15:36:01.9310439-06:00;Thread#12;Info;generating reports
+2020-01-30T15:36:01.9990095-06:00;Thread#12;Info;Starting external report generation process
+2020-01-30T15:36:03.3012988-06:00;Thread#12;Info;Successfully generated reports.
+2020-01-30T15:36:03.3029179-06:00;Thread#12;Info;Successfully generated reports
+2020-01-30T15:36:03.3083006-06:00:Total: 1
+2020-01-30T15:36:03.3100380-06:00:Succeeded: 0
+2020-01-30T15:36:03.3103223-06:00:Ignored: 0
+2020-01-30T15:36:03.3105483-06:00:Pending: 1
+2020-01-30T15:36:03.3105552-06:00:Skipped: 0
+2020-01-30T15:36:03.3107698-06:00:Failed: 0
+2020-01-30T15:36:03.3162935-06:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-01-30T15:36:03.3163673-06:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\mariana.sandoval\source\repos\AmazonSearch\TestResults\Unnamed project__2020-01-30T153553.html'
+========== End of log file ==========

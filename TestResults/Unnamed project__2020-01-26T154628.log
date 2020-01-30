@@ -1,0 +1,45 @@
+﻿2020-01-26T15:46:28.4764044-06:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-01-26T15:46:28.4768058-06:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.44 in Framework netcore31 in x64 mode execution started
+2020-01-26T15:46:28.4768236-06:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-01-26T15:46:28.5223579-06:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\AmazonSearch.dll
+2020-01-26T15:46:28.5225543-06:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\mariana.sandoval\source\repos\AmazonSearch\TestResults" (default)
+2020-01-26T15:46:28.5226616-06:00;VSTestExecutionThread;Info;Profile: 
+2020-01-26T15:46:28.5679120-06:00;VSTestExecutionThread;Info;Log file path: C:\Users\mariana.sandoval\source\repos\AmazonSearch\TestResults\Unnamed project__2020-01-26T154628.log
+2020-01-26T15:46:28.5754074-06:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-01-26T15:46:28.5831877-06:00;Thread#12;Info;Checking license
+2020-01-26T15:46:28.6278493-06:00;Thread#12;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2020-01-26T15:46:42.6289595-06:00;Thread#12;Info;Evaluation delay finished.
+2020-01-26T15:46:42.6522644-06:00;Thread#12;Info;License check completed
+2020-01-26T15:46:42.6539419-06:00;Thread#12;Info;starting test run
+2020-01-26T15:46:42.6661604-06:00;Thread#12;Info;Discovering target: Default
+2020-01-26T15:46:42.6663834-06:00;Thread#12;Info;Discovering tests from assembly: C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\AmazonSearch.dll
+2020-01-26T15:46:42.7899518-06:00;Thread#12;Info;Discovered tests from assembly: C:\Users\mariana.sandoval\source\repos\AmazonSearch\AmazonSearch\bin\Debug\netcoreapp3.1\AmazonSearch.dll
+2020-01-26T15:46:42.7920219-06:00:Test Suite Dump
+2020-01-26T15:46:42.7954286-06:00:#0: Unnamed project/ - 
+2020-01-26T15:46:42.7955099-06:00:#1: Default - 
+2020-01-26T15:46:42.7955147-06:00:#2: AmazonSearch - 
+2020-01-26T15:46:42.7956188-06:00:End: Test Suite Dump
+2020-01-26T15:46:42.8214045-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-26T15:46:42.8238315-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-26T15:46:42.8238441-06:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-01-26T15:46:42.8240252-06:00:Thread#0:Scheduler: No more tests for thread
+2020-01-26T15:46:42.8350720-06:00:Thread#-1:Scheduler: get next test for thread -1
+2020-01-26T15:46:42.8351332-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-26T15:46:42.8351383-06:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-01-26T15:46:42.8376386-06:00;Thread#12;Info;test run finished
+2020-01-26T15:46:42.8378214-06:00;Thread#12;Info;publishing test results
+2020-01-26T15:46:42.8381334-06:00;Thread#12;Info;Not publishing results.
+2020-01-26T15:46:42.8383135-06:00;Thread#12;Info;test results published
+2020-01-26T15:46:42.8383909-06:00;Thread#12;Info;generating reports
+2020-01-26T15:46:43.0348793-06:00;Thread#12;Info;Starting external report generation process
+2020-01-26T15:46:46.0686962-06:00;Thread#12;Error;Could not generate test run result reports. An error occurred in the generator.
+2020-01-26T15:46:46.0694592-06:00;Thread#12;Error;External program returned exit code '-2'
+2020-01-26T15:46:46.0696934-06:00;Thread#12;Info;Failed generating reports
+2020-01-26T15:46:46.0805197-06:00:Total: 0
+2020-01-26T15:46:46.0837718-06:00:Succeeded: 0
+2020-01-26T15:46:46.0842947-06:00:Ignored: 0
+2020-01-26T15:46:46.0847364-06:00:Pending: 0
+2020-01-26T15:46:46.0859752-06:00:Skipped: 0
+2020-01-26T15:46:46.0864786-06:00:Failed: 0
+2020-01-26T15:46:46.0949245-06:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

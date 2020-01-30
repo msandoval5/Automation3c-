@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonSearch", "AmazonSearch\AmazonSearch.csproj", "{98CBBDDC-0A8F-4009-AA97-BD58F669DC95}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3169EDCC-0237-4575-A9ED-73762C398787} = {3169EDCC-0237-4575-A9ED-73762C398787}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetUpBrowser", "SetUpBrowser\SetUpBrowser.csproj", "{3169EDCC-0237-4575-A9ED-73762C398787}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{E28424EC-232F-49C7-8611-9DC294CCB3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98CBBDDC-0A8F-4009-AA97-BD58F669DC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CBBDDC-0A8F-4009-AA97-BD58F669DC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CBBDDC-0A8F-4009-AA97-BD58F669DC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CBBDDC-0A8F-4009-AA97-BD58F669DC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3169EDCC-0237-4575-A9ED-73762C398787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3169EDCC-0237-4575-A9ED-73762C398787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3169EDCC-0237-4575-A9ED-73762C398787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3169EDCC-0237-4575-A9ED-73762C398787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64335111-BAA9-4BC7-98BC-3C71E73FB395}
+	EndGlobalSection
+EndGlobal
